@@ -1,0 +1,12 @@
+CMFileManager.apk
+Contacts.apk
+Dialer.apk
+Email.apk
+framework-res.apk
+Mms.apk
+Phone.apk
+Settings.apk
+SystemUI.apk
+ThemeChooser.apk
+ThemeManager.apk
+Trebuchet.apk

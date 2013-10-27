@@ -1,0 +1,6 @@
+framework-res.apk
+Mms.apk
+QSCP.apk
+Settings.apk
+SystemUI.apk
+

@@ -1,0 +1,17 @@
+CMFileManager.apk
+Contacts.apk
+DeskClock.apk
+Dialer.apk
+Email.apk
+framework-res.apk
+Halo.apk
+LockClock.apk
+Mms.apk
+mokee-res.apk
+MoKeeLauncher.apk
+Notepad.apk
+Phone.apk
+Settings.apk
+SystemUI.apk
+ThemeChooser.apk
+ThemeManager.apk

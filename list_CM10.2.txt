@@ -1,0 +1,15 @@
+CMFileManager.apk
+Contacts.apk
+DeskClock.apk
+Dialer.apk
+Email.apk
+framework-res.apk
+LockClock.apk
+Mms.apk
+Phone.apk
+Settings.apk
+SystemUI.apk
+ThemeChooser.apk
+ThemeManager.apk
+Trebuchet.apk
+version.txt
