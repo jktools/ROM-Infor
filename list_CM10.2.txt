@@ -12,4 +12,3 @@ SystemUI.apk
 ThemeChooser.apk
 ThemeManager.apk
 Trebuchet.apk
-version.txt
