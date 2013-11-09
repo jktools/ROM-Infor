@@ -4,7 +4,6 @@ Dialer.apk
 Email.apk
 framework-res.apk
 HALO.apk
-LockClock.apk
 Mms.apk
 Phone.apk
 Settings.apk
