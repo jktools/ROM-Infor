@@ -1,0 +1,9 @@
+Dialer.apk
+framework-res.apk
+Mms.apk
+Settings.apk
+SlimCenter.apk
+SlimFileManager.apk
+SpareParts.apk
+SystemUI.apk
+TeleService.apk

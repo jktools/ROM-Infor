@@ -1,0 +1,10 @@
+CMFileManager.apk
+Dialer.apk
+framework-res.apk
+LockClock.apk
+Mms.apk
+Settings.apk
+SystemUI.apk
+TeleService.apk
+ThemeChooser.apk
+ThemeManager.apk
